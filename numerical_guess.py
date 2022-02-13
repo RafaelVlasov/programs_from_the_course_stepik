@@ -1,6 +1,6 @@
-import random  # подключаем модуль
-
 #игра 'числовая угадайка'
+
+import random  # подключаем модуль
 
 def is_valid(num):
     if num.isdigit():
